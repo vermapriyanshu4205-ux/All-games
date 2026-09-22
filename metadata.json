@@ -1,0 +1,6 @@
+{
+  "name": "Bill Splitter",
+  "description": "Split-screen bill splitting app with AI receipt parsing and smart natural language chat item assignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
